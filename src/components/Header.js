@@ -18,10 +18,7 @@ function Header() {
       <h1>My Portfolio Page</h1>
       <nav style={navStyle}>
         <Link to="/">
-          <div>HOME</div>
-        </Link>
-        <Link to="/about">
-          <div>ABOUT</div>
+          <div>ABOUT ME</div>
         </Link>
         <Link to="/projects">
           <div>PROJECTS</div>

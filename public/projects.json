@@ -1,15 +1,17 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Pixel Quest",
+      "disc": "A Browser-Based role playing game created with JS/HTML/CSS",
+      "live": "https://lsmith97.github.io/Pixel_Quest/",
+      "git": "https://github.com/LSmith97/Pixel_Questo",
+      "image": "https://raw.githubusercontent.com/LSmith97/Pixel_Quest/main/assets/screenshot2.PNG"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Mingo",
+      "disc": "A text-based social media website created with Express, MongoDB, and Node.js",
+      "live": "https://mingo-b8899ae399d9.herokuapp.com/posts",
+      "git": "https://github.com/LSmith97/Mingo",
+      "image": "https://user-images.githubusercontent.com/85040152/261404899-8c8dfcf6-b0cb-4ab8-b0b9-5bc016b86f7c.png"
     }
   ]
   
