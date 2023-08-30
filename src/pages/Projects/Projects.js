@@ -28,7 +28,12 @@ function Projects(props) {
     return projects.map((project) => (<ProjectContainer project={project}/>));
   };
 
-  return projects ? loaded() : <h1>Loading...</h1>;
+  return (
+  <main>
+    {projects ? loaded() : <h1>Loading...</h1>}
+  </main>
+  
+  )
 }
 
 export default Projects;

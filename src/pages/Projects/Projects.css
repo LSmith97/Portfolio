@@ -4,8 +4,30 @@ img {
 }
 
 .project-container {
+    width: 80%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: rgb(43, 42, 51);
+    border-radius: 2rem;
+}
+
+.buttons {
+    margin: .5rem 0 0 0;
+    display: flex;
+    gap: 1rem;
+}
+
+.buttons button {
+    background-color: orange;
+    color: black;
+    border-radius: 1rem;
+    padding: .5rem;
+    border: 3px solid rgb(133, 87, 1);
+}
+
+.buttons button:hover {
+    background-color: rgb(133, 87, 1);
+    color: white;
 }
