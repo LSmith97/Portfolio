@@ -1,12 +1,12 @@
 import "./App.css";
 
 // IMPORT COMPONENTS
-import Header from "./components/Header";
+import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 import { Route, Routes } from "react-router-dom";
 
 // IMPORT PAGES
-import About from "./pages/About";
+import About from "./pages/About/About";
 import Projects from "./pages/Projects/Projects";
 
 function App() {

@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import "./Projects.css"
+import ProjectContainer from "./ProjectContainer";
 
 function Projects(props) {
   // create state to hold projects
@@ -24,19 +25,7 @@ function Projects(props) {
 
   // define a function that will return the JSX needed once we get the data
   const loaded = () => {
-    return projects.map((project) => (
-      <div className="project-container">
-        <h1>{project.name}</h1>
-        <img src={project.image} />
-        <a href={project.git}>
-          <button>Github</button>
-        </a>
-        <a href={project.live}>
-          <button>Live</button>
-        </a>
-        <p>{project.disc}</p>
-      </div>
-    ));
+    return projects.map((project) => (<ProjectContainer project={project}/>));
   };
 
   return projects ? loaded() : <h1>Loading...</h1>;
