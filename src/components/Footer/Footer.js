@@ -1,4 +1,5 @@
 import "./Footer.css"
+import Pdf from './Resume.pdf'
 
 function Footer(props) {
     return (
@@ -12,6 +13,10 @@ function Footer(props) {
           <a href="https://github.com/LSmith97">
             <img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-1024.png" alt=""/>
             GitHub
+          </a>
+          <a href={Pdf}>
+            <img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-document-text-1024.png" alt=""/>
+            Resume
           </a>
         </div>
       </footer>
