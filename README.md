@@ -14,9 +14,9 @@ Link here: [Link](https://lilliana-smith.netlify.app/)
 ## Technologies Used
 
 <ol>
-  - React.js
-  - Node.js
-  - JS/CSS/HTML
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>JS/CSS/HTML</li>
 </ol>
 
 ## Future Features
