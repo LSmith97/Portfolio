@@ -5,6 +5,7 @@
     width: 80%;
     background-color: rgb(43, 42, 51);
     border-radius: 1rem;
+    padding: 1rem;
 }
 
 .about img {
@@ -18,6 +19,7 @@
 
 .about p {
     width: 80%;
+    white-space: pre-line;
 }
 
 .about h2 {

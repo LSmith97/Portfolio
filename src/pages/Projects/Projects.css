@@ -16,10 +16,11 @@
     color: orange;
 }
 
-.project-container img {
+.project-container > img {
     margin: 1rem;
     display: block;
     height: 250px;
+    border-radius: 1rem;
 }
 
 hr {
