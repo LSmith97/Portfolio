@@ -1,28 +1,34 @@
 [
-    {
-      "name":"DungeonBox",
-      "skills":"React.js, Node.js, Express.js, MongoDB, CSS",
-      "disc":"A full-stack react application that allows users to create, edit, and manage characters for Dungeons and Dragons 5th Edition.",
-      "live": "https://dungeonbox.netlify.app/",
-      "git": "https://github.com/LSmith97/DungeonBox",
-      "image": "https://camo.githubusercontent.com/ab85aa3f70a4a9eacee7cf7c951eda571d857f80a24ae96fb9979d8473759695/68747470733a2f2f692e696d6775722e636f6d2f706f686f3164442e706e67"
-    },
-    {
-      "name": "Mingo",
-      "skills": "Node.js, Express.js, MongoDB, EJS, CSS",
-      "disc": "A full-stack text based social media website where users can post about their favorite topics, and comment on other's posts",
-      "live": "https://mingo-b8899ae399d9.herokuapp.com/posts",
-      "git": "https://github.com/LSmith97/Mingo",
-      "image": "https://user-images.githubusercontent.com/85040152/261404899-8c8dfcf6-b0cb-4ab8-b0b9-5bc016b86f7c.png"
-    },
-    {
-      "name": "Pixel Quest",
-      "skills": "HTML, CSS, Javascript",
-      "disc": "A Browser-Based role playing game where players can fight various enemies with a variety of skills and trigger different events.",
-      "live": "https://lsmith97.github.io/Pixel_Quest/",
-      "git": "https://github.com/LSmith97/Pixel_Questo",
-      "image": "https://raw.githubusercontent.com/LSmith97/Pixel_Quest/main/assets/screenshot2.PNG"
-    }
-  ]
-  
-  
+  {
+    "name": "MtG Deckbuilder",
+    "skills": "React.js, Node.js, Express.js, MongoDB, CSS",
+    "disc": "Build, manage, and share your Magic the Gathering decks with this full-stack web application.",
+    "live": "https://deckbuildermtg.netlify.app/",
+    "git": "https://github.com/LSmith97/MtG-Deckbuilder",
+    "image": "https://camo.githubusercontent.com/053428be52f7e07195d46652adea768d0055536d2b95b4a4ea77395f83d06165/68747470733a2f2f692e696d6775722e636f6d2f323464456d53582e706e67"
+  },
+  {
+    "name": "DungeonBox",
+    "skills": "React.js, Node.js, Express.js, MongoDB, CSS",
+    "disc": "A full-stack react application that allows users to create, edit, and manage characters for Dungeons and Dragons 5th Edition.",
+    "live": "https://dungeonbox.netlify.app/",
+    "git": "https://github.com/LSmith97/DungeonBox",
+    "image": "https://camo.githubusercontent.com/ab85aa3f70a4a9eacee7cf7c951eda571d857f80a24ae96fb9979d8473759695/68747470733a2f2f692e696d6775722e636f6d2f706f686f3164442e706e67"
+  },
+  {
+    "name": "Mingo",
+    "skills": "Node.js, Express.js, MongoDB, EJS, CSS",
+    "disc": "A full-stack text based social media website where users can post about their favorite topics, and comment on other's posts",
+    "live": "https://mingo-b8899ae399d9.herokuapp.com/posts",
+    "git": "https://github.com/LSmith97/Mingo",
+    "image": "https://user-images.githubusercontent.com/85040152/261404899-8c8dfcf6-b0cb-4ab8-b0b9-5bc016b86f7c.png"
+  },
+  {
+    "name": "Pixel Quest",
+    "skills": "HTML, CSS, Javascript",
+    "disc": "A Browser-Based role playing game where players can fight various enemies with a variety of skills and trigger different events.",
+    "live": "https://lsmith97.github.io/Pixel_Quest/",
+    "git": "https://github.com/LSmith97/Pixel_Questo",
+    "image": "https://raw.githubusercontent.com/LSmith97/Pixel_Quest/main/assets/screenshot2.PNG"
+  }
+]
