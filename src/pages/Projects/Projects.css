@@ -9,6 +9,13 @@
     padding: 1rem;
 }
 
+.project-container h1 {
+    font-family: 'Caveat', cursive;
+    font-size: 45px;
+    margin: 0;
+    color: orange;
+}
+
 .project-container img {
     margin: 1rem;
     display: block;
